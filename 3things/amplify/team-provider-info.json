@@ -10,6 +10,14 @@
       "StackName": "amplify-3things-dev-6c093",
       "StackId": "arn:aws:cloudformation:us-east-1:634776369427:stack/amplify-3things-dev-6c093/9955cc70-089d-11f0-9105-0affd3495837",
       "AmplifyAppId": "d1nk91sg133vez"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1nk91sg133vez",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
